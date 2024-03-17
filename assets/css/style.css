@@ -1,0 +1,34 @@
+/* body {
+  background-color: powderblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
+.container {
+  text-align: right;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  text-align: left;
+}
+fieldset {
+  color: azure;
+  background-color: black;
+}
+.row{
+    justify-content: center;
+    display: flex;
+}
+.one {
+    margin-top:80px;
+    margin-right: 20px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+} */
